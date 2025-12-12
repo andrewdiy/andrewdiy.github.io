@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-  color: red;
-  font-family: Times, serif;
+  color: greenyellow;
+  font-family: Garamondt, Times, serif;
   font-size: 40px;
 }
 
@@ -17,8 +17,6 @@ h1 {
 
 @font-face {
     font-family: Garamondt;
-    src: url("../Garamondt-Italic.woff") format('webfont');
-    font-weight: bold;
-    font-style: normal;
+    src: url("Garamondt-Italic.woff");
 }
 
