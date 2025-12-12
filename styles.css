@@ -1,10 +1,10 @@
-body {
+vetbody {
   background-color: black;
 }
 
 h1 {
   color: greenyellow;
-  font-family: Garamondt, Times, serif;
+  font-family: Garamondt, Helvetica, sans-serif;
   font-size: 40px;
 }
 
