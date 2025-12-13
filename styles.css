@@ -5,6 +5,7 @@ body {
 h1 {
   color: greenyellow;
   font-family: CMRDD;
+  position: fixed;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-right: 0px;
@@ -15,7 +16,7 @@ h1 {
 p {
   color: greenyellow;
   font-family: CMRDD;
-  position: relative;
+  position: fixed;
   text-align: center;
   font-size: 12px;
 }
