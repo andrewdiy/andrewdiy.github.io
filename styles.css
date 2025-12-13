@@ -26,11 +26,6 @@ p {
 }
 
 @font-face {
-    font-family: Garamondt;
-    src: url("Garamondt-Italic.woff");
-}
-
-@font-face {
     font-family: CMRDD;
     src: url("CMRDD-Bold.woff");
 }
