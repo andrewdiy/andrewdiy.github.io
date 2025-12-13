@@ -13,6 +13,10 @@ h1 {
 
 }
 
+.outlined {
+  border: solid;
+}
+
 .twitch {
       position: absolute;
   top: 50%;
