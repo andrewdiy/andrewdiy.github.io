@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-  color: red;
+  color: greenyellow;
   font-family: CMRDD;
   font-size: 65px;
 }
 
 .marquee {
-      position: absolute;
+      position: relative;
 
 }
 
@@ -18,7 +18,7 @@ h1 {
 }
 
 .twitch {
-      position: relative;
+      position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
