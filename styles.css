@@ -15,12 +15,13 @@ h1 {
 p {
   color: greenyellow;
   font-family: CMRDD;
-  position: center
+  position: relative;
+  text-align: center;
   font-size: 12px;
 }
 
 .twitch {
-      position: absolute;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
