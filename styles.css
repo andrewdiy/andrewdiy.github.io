@@ -8,10 +8,6 @@ h1 {
   font-size: 65px;
 }
 
-.marquee {
-      position: relative;
-}
-
 .twitch {
       position: absolute;
   top: 50%;
