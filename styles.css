@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-p {
+h1 {
   color: greenyellow;
   font-family: CMRDD;
   margin-top: 0px;
@@ -10,6 +10,13 @@ p {
   margin-right: 0px;
   margin-left: 0px;
   font-size: 65px;
+}
+
+p {
+  color: greenyellow;
+  font-family: CMRDD;
+  position: center
+  font-size: 12px;
 }
 
 .twitch {
