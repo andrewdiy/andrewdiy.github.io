@@ -13,6 +13,7 @@ h1 {
 }
 
 p {
+  position: absolute;
   color: greenyellow;
   font-family: CMRDD;
   font-size: 12px;
