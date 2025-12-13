@@ -6,7 +6,7 @@ permalink: /marquee/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>in2abyss.xyz</title>
+    <title>marquee</title>
      <link rel="stylesheet" href="styles.css">
 </head>
 <body>
