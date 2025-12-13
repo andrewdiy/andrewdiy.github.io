@@ -13,12 +13,16 @@ h1 {
 }
 
 p {
-  position: absolute;
+  text-align: center;
   color: greenyellow;
   font-family: CMRDD;
   font-size: 12px;
 }
 
+a:visited {
+  color: greenyellow;
+}
+  
 .twitch {
   position: absolute;
   top: 50%;
