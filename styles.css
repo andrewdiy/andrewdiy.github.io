@@ -5,6 +5,10 @@ body {
 p {
   color: greenyellow;
   font-family: CMRDD;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
   font-size: 65px;
 }
 
